@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<script>
+console.info('does JS run here?');
+</script>
+
 <!--
 **gkovats/gkovats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
